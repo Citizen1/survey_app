@@ -1,0 +1,4 @@
+This is survey app, my attempt and practice to make app for surveys. It has rapidfire gem mounted in routes.
+It also has paperclip gem for adding pictures to users. 
+It is not finished or for further use, just for testing code and some ideas.
+Ruby version is 2.0.0-p451 and Rails -v is 4.0.3. 
